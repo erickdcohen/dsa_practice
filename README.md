@@ -1,6 +1,26 @@
 # DSA Practice
 
-storing resources to practice DSA
+Storing resources to practice DSA
+
+## Cracking the Coding Interview
+
+Book with programming questions and solutions. Recommends going through various data structures and algorithms before jumping into the problems
+
+1. Linked Lists
+
+- [real python linked lists](https://realpython.com/linked-lists-python/)
+
+2. Trees, Tries, and Graphs
+
+    a. Trees
+    - [General Trees](https://www.youtube.com/watch?v=4r_XR9fUPhQ)
+    - Binary Trees
+
+    b. Tries
+
+    c. Graphs
+
+## Blogs
 
 - [code motion blog](https://www.blog.codeinmotion.io/p/leetcode-patterns)
 
@@ -15,10 +35,6 @@ leetcode problem examples: 3, 424, 1876, 76
 Can involve sorting a list; use two pointers to solve
 
 leetcode problem examples: 11, 15, 125
-
-3. 
-
-- [real python linked lists](https://realpython.com/linked-lists-python/)
 
 ## General Tips
 
