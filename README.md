@@ -17,6 +17,7 @@ Book with programming questions and solutions. Recommends going through various 
     - Binary Trees
 
     b. Tries
+    - [Youtube Video](https://www.youtube.com/watch?v=hjUJFjcrbR4&t=498s)
 
     c. Graphs
 
@@ -39,5 +40,6 @@ leetcode problem examples: 11, 15, 125
 ## General Tips
 
 - Take your time to read the question. Comment your code as you go.
-- Think about edge cases, ask the interviewer what the contraints are which can give you hints to the solution and think about edge cases
+- Think about edge cases, ask the interviewer what the contraints are which can give you hints to the solution. Boring edge cases like Nulls, empty strings, single elements, and other interesting edge cases like all punctuation, sorted strings, all duplicates. 
 - If you are stuck, it's ok to discuss the naive/brute force way to think about it to start.
+- For big-O, pay careful attention to what the variables are and represent. O(n) if n is area of a surface or O(n^2) if n is the length of a square
