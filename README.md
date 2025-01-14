@@ -21,6 +21,15 @@ Book with programming questions and solutions. Recommends going through various 
 
     c. Graphs
 
+3. Stacks and Queues 
+
+    a. Queues
+    - [real python queues](https://realpython.com/queue-in-python/#implementing-queues-in-python)
+    
+    b. Stacks
+    - [real python stacks](https://realpython.com/queue-in-python/#building-a-stack-data-type)
+
+
 ## Blogs
 
 - [code motion blog](https://www.blog.codeinmotion.io/p/leetcode-patterns)
